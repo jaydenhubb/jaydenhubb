@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Jeremiah Ojo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A fullstack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydenhubb&label=Profile%20views&color=0e75b6&style=flat" alt="jaydenhubb" /> </p>
@@ -11,13 +11,14 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Html, CSS, Javascript, React.js**
+- 💬 Ask me about **Html, CSS, Javascript, Typescript, React.js, Nodejs, Expressjs, Mongodb**
 
 - 📫 How to reach me **ojoj665@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/da_sempere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="da_sempere" height="30" width="40" /></a>
+<a href="https://ojojeremiah.netlify.app/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fonline-marketing-portfolio-icon-element-premium-quality-graphic-design-signs-symbols-collection-websites-web-white-144857696.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fonline-marketing-portfolio-icon-element-premium-quality-graphic-design-signs-symbols-collection-websites-web-white-image144857696&tbnid=ShMytQQ_cDMNqM&vet=12ahUKEwjMvPz1pOP8AhXzlCcCHT9fA7AQMygDegUIARDQAQ..i&docid=6nouKnOfFIGiTM&w=800&h=800&q=portfolio%20site%20icon&ved=2ahUKEwjMvPz1pOP8AhXzlCcCHT9fA7AQMygDegUIARDQAQ" alt="da_sempere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremiah-ojo-20a8a3213/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bpcs3xwqmqvmm7pv915aq%2bg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremiah-ojo-20a8a3213/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bpcs3xwqmqvmm7pv915aq%2bg%3d%3d" height="30" width="40" /></a>
 </p>
 
