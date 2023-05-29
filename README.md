@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/da_sempere" target="blank"><img src="https://img.shields.io/twitter/follow/da_sempere?logo=twitter&style=for-the-badge" alt="da_sempere" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs, postgresql**
+- 🌱 I’m currently learning **Django, DjangoRESTAPI**
 
 - 👨‍💻 All of my projects are available at [https://ojojeremiah.netlify.app/](https://ojojeremiah.netlify.app/)
 
